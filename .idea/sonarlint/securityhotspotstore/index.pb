@@ -30,3 +30,5 @@ f
 6src/main/java/org/ASNB/controllers/CardController.java,3\d\3d0f21599828886e357fc99449659f5ebb377387
 i
 9src/main/java/org/ASNB/controllers/AccountController.java,f\a\fa7774521f2ae9acc1f988f273cefa478ec90645
+a
+1src/main/java/org/ASNB/config/SecurityConfig.java,2\2\22ce879e4dac188d69e8e10701c8c80126098085
